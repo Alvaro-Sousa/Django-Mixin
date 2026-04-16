@@ -1,0 +1,9 @@
+<h1>Página Pública</h1>
+{% if user.is_authenticated %}
+    <p>Olá, {{user.username}}!</p>
+    <a href = "{% url 'painel_view' %}">Ir para o painel</a>
+    <a href = "{% url 'logout_view' %}">Sair</a>
+{% else %}
+    <p>Você não esta logando.</p>
+    <a href = "{% url 'logout_view' %}">Login</a>
+{% endif %}
