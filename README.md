@@ -67,9 +67,8 @@ Exercicio-aula7-8/
 
 ## Contact Information
 For any inquiries, feel free to reach out to:
-- **Name**: Alvaro Sousa
-- **Email**: alvaro.sousa@example.com
+- 🐙 GitHub: [Alvaro-Sousa](https://github.com/Alvaro-Sousa)
+- 💼 LinkedIn: [Álvaro Sousa](https://www.linkedin.com/in/%C3%A1lvaro-sousa-136643324/)
+- 📸 Instagram: [@alvru_s](https://www.instagram.com/alvru_s/)
 
 ---
-
-Ensure to replace placeholder values in the project structure and contact information as per your actual project needs.
